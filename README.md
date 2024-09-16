@@ -11,4 +11,4 @@ Adaptabilidade e Escalabilidade: Permite ajustes e expansão fácil da identidad
 Integração com Outras Áreas: Facilita a aplicação consistente em design de interfaces e desenvolvimento.
 Valor Agregado: Destaca habilidades e adiciona valor ao portfólio profissional.
 
-![Uploading Captura de tela 2024-09-16 162252.png…]()
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/92a0912a-4a7b-4900-ba2f-805c6833eca8">
